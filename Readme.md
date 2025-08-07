@@ -84,10 +84,6 @@ It simulates a real-world analytics solution for **sales, product, customer, and
 - Detection of seasonal trends and underperforming regions
 - Actionable insight generation for real business scenarios
 
----
-
-This project demonstrates strong proficiency in **Power BI, DAX, UX/UI, and analytical thinking** — ideal for roles involving **data storytelling, reporting automation, and business intelligence**.
-
 
 ## 📊 Data Source
 
