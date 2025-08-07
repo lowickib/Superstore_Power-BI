@@ -1,4 +1,4 @@
-# 🚀 Power BI Retail Analytics Dashboard – Superstore Project
+# 🚀 Cart 'n Mart - Power BI Project
 
 ![Dashboard demo](imgs/GIF/Superstore%20Demo.gif)
 
