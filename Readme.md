@@ -710,6 +710,8 @@ Each metric helps evaluate segment efficiency and profitability.
 
 All analytical measures were created in a dedicated table called **Measures Table**, grouped into thematic folders. These measures support KPI reporting, trend analysis, dynamic ranking, target tracking, and UX enhancements via slicers and dynamic titles.
 
+All measures with description and DAX code can be found [here](measures/Measures.md).
+
 ---
 
 ### 📦 Orders
